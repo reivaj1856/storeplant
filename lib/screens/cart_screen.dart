@@ -141,6 +141,7 @@ class _CartScreenState extends State<CartScreen> {
                 // --- CAMBIOS DE DISEÑO EN ESTA SECCIÓN ---
                 Card(
                   margin: const EdgeInsets.all(15),
+                  color: Colors.green[300], // Fondo del card en verde claro
                   child: Padding(
                     padding: const EdgeInsets.all(8),
                     child: Row(
