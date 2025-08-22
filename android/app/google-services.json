@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "437244738404",
+    "project_id": "practica2-1637c",
+    "storage_bucket": "practica2-1637c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437244738404:android:8893c1e8d82408ece2d871",
+        "android_client_info": {
+          "package_name": "com.example.plantstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPEJJpOXD_or5JBbszBr6jAo_fGTQSjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437244738404:android:a84c4fbbb3f68f30e2d871",
+        "android_client_info": {
+          "package_name": "com.example.storeplant2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPEJJpOXD_or5JBbszBr6jAo_fGTQSjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437244738404:android:ad705f8cd89a7391e2d871",
+        "android_client_info": {
+          "package_name": "com.example.storeplants"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMPEJJpOXD_or5JBbszBr6jAo_fGTQSjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
